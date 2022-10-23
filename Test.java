@@ -6,6 +6,9 @@ public class Test {
 			System.out.println("Sohel Changes");
  			System.out.println("Nawaz chnages");		
  			System.out.println("x"+x +"y:"+y);
+
+
+ 			int abc;
 	}
 
 }
